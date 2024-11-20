@@ -73,6 +73,7 @@ const Assets = {
 	Postcss: a('postcss.svg'),
 	iTeam:a('logo_iTeam.jpg'),
 	Isamm:a('isamm_logo.png'),
+	SpringBoot:a('springboot.png')
 
 };
 
