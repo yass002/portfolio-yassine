@@ -72,6 +72,7 @@ const Assets = {
 	Ruvy: a('ruvy.svg'),
 	Postcss: a('postcss.svg'),
 	iTeam:a('logo_iTeam.jpg'),
+	Isamm:a('isamm_logo.png'),
 
 };
 

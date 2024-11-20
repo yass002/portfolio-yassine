@@ -57,8 +57,8 @@
 								<img
 									src={getAssetURL(education.logo)}
 									alt={education.organization}
-									height="50"
-									width="50"
+									height="90"
+									width="100"
 									class="mb-5"
 								/>
 								<div class="text-[1.3em]">{education.degree}</div>

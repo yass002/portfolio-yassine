@@ -3,7 +3,7 @@ import type { Education } from '../types';
 
 export const items: Array<Education> = [
 	{
-		degree: 'Degree in Computer Science and Multimedia',
+		degree: 'Software Engineering Degree',
 		description: '',
 		location: 'Tunisia',
 		logo: Assets.iTeam,
@@ -15,12 +15,12 @@ export const items: Array<Education> = [
 		subjects: ['C', 'Algorithm', 'Algebra', 'Python', 'C++', 'Java', 'English','','','','']
 	},
 	{
-		degree: 'PhD of Computer Science',
-		description: '',
-		location: 'USA',
+		degree: "Bachelor's Degree in Computer Science & Multimedia",
+		description: "I completed my bachelor's degree in Computer Science & Multimedia and I graduated with the highest honors after a 4 month end-of-studies internship",
+		location: 'Manouba',
 		logo: Assets.Unknown,
 		name: '',
-		organization: 'MIT',
+		organization: 'Higher Institute of Multimedia Arts',
 		period: { from: new Date(2023, 0, 1) },
 		shortDescription: '',
 		slug: 'dummy-education-item-2',
