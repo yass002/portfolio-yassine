@@ -8,9 +8,9 @@ export const items: Array<Education> = [
 		location: 'Tunisia',
 		logo: Assets.iTeam,
 		name: '',
-		organization: 'ISAMM',
-		period: { from: new Date(2020, 0, 1), to: new Date(2022, 5, 1) },
-		shortDescription: '',
+		organization: 'iTeam university',
+		period: { from: new Date(2022, 8, 1), to: new Date(2025, 5, 1) },
+		shortDescription: 'I participated in an application-based selection process for Admission to Engineering Program and I was awarded a full scholarship to study Software Engineering',
 		slug: 'dummy-education-item',
 		subjects: ['C', 'Algorithm', 'Algebra', 'Python', 'C++', 'Java', 'English','','','','']
 	},
