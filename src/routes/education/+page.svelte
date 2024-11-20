@@ -58,7 +58,7 @@
 									src={getAssetURL(education.logo)}
 									alt={education.organization}
 									height="90"
-									width="100"
+									width="140"
 									class="mb-5"
 								/>
 								<div class="text-[1.3em]">{education.degree}</div>
@@ -73,6 +73,12 @@
 									<div class="row items-center gap-2">
 										<UIcon icon="i-carbon-time" />
 										{computeExactDuration(education.period.from, education.period.to)}
+									</div>
+									<CardDivider />
+									<CardDivider />
+									<div class="row items-center gap-2">
+										<UIcon icon="i-carbon-time" />
+										{education.description}
 									</div>
 									<CardDivider />
 								</div>

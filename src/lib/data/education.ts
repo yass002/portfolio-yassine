@@ -12,7 +12,7 @@ export const items: Array<Education> = [
 		period: { from: new Date(2022, 8, 1), to: new Date(2025, 5, 1) },
 		shortDescription: 'I participated in an application-based selection process for Admission to Engineering Program and I was awarded a full scholarship to study Software Engineering',
 		slug: 'dummy-education-item',
-		subjects: ['C', 'Algorithm', 'Algebra', 'Python', 'C++', 'Java', 'English','','','','']
+		subjects: ['C', 'Algorithm', 'Algebra', 'Python', 'C++', 'Java', 'J2EE','Spring','Spring Boot','Microservice architecture','Erp :odoo,SAP','Agile scrum','Docker','','Docker','Kubernetes','Git','Jenkins','SonarQube']
 	},
 	{
 		degree: "Bachelor's Degree in Computer Science & Multimedia",
