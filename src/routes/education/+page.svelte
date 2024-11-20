@@ -77,7 +77,7 @@
 									<CardDivider />
 									<CardDivider />
 									<div class="row items-center gap-2">
-										<UIcon icon="i-carbon-time" />
+									
 										{education.description}
 									</div>
 									<CardDivider />
