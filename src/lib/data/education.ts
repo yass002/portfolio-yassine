@@ -12,7 +12,7 @@ export const items: Array<Education> = [
 		period: { from: new Date(2022, 8, 1), to: new Date(2025, 5, 1) },
 		shortDescription: '',
 		slug: 'dummy-education-item',
-		subjects: ['Algorithm','Data structure','UML','SQL','PLSQL', 'C', 'Python', 'C++','PHP','Javascript', 'Java', 'J2EE','Spring','Spring Boot','Angular','ReactJS','Microservice architecture','Erp ODOO SAP','Agile scrum','Docker','Git & Github','Jenkins','SonarQube']
+		subjects: ['Algorithm','Data structure','C','Python','Java','SQL', 'UML', 'Python', 'C++','PHP','Javascript', 'PLSQL', 'J2EE','Spring','Spring Boot','Angular','ReactJS','Microservice architecture','Erp ODOO SAP','Agile scrum','Docker','Git & Github','Jenkins','SonarQube']
 	},
 	{
 		degree: "Bachelor's Degree in Computer Science & Multimedia",
