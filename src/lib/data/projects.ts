@@ -4,36 +4,36 @@ import type { Project } from '../types';
 
 export const items: Array<Project> = [
 	{
-		slug: 'slick-portfolio-angular',
+		slug: 'Swap Market',
 		color: '#5e95e3',
 		description:
-			'Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore non dolores voluptatibus vitae praesentium aperiam, iure laboriosam repellendus sunt explicabo pariatur totam enim, nihil animi quisquam. Sit vero quod laborum!',
+			'TradeMarket is a modern e-commerce web application designed to facilitate seamless online trading and personalized shopping experiences. The platform integrates advanced user management, robust security features, and real-time recommendation systems to provide a user-friendly and secure trading environment.',
 		shortDescription:
-			'Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore non dolores voluptatibus vitae praesentium aperiam, iure laboriosam repellendus sunt explicabo pariatur totam enim, nihil animi quisquam. Sit vero quod laborum!',
-		links: [{ to: 'https://github.com/RiadhAdrani/slick-portfolio-svelte', label: 'GitHub' }],
-		logo: Assets.Unknown,
-		name: 'Slick Portfolio',
+			'TradeMarket is a modern e-commerce web application designed to facilitate seamless online trading and personalized shopping experiences. The platform integrates advanced user management, robust security features, and real-time recommendation systems to provide a user-friendly and secure trading environment',
+		links: [{ to: 'https://github.com/yass002/ms-trade-market', label: 'GitHub' }],
+		logo: Assets.SwapMarket,
+		name: 'Swap Market',
 		period: {
 			from: new Date()
 		},
-		skills: getSkills('angular', 'ts', 'tailwind'),
-		type: 'Website Template'
+		skills: getSkills('js', 'SpringBoot','java','reactjs', 'tailwind'),
+		type: 'Micro-service Architecture',
 	},
 	{
 		slug: 'slick-portfolio-svelte',
 		color: '#ff3e00',
 		description:
-			'A Vercel-like developer portfolio website template made with Typescript and SvelteKit.',
+			'The Insurance Workflow Management System is a web-based application designed to streamline and automate the various processes involved in insurance workflow management. The platform enhances operational efficiency, reduces manual effort, and ensures accurate tracking of tasks across different stages of insurance operations.',
 		shortDescription:
-			'A Vercel-like developer portfolio website template made with Typescript and SvelteKit.',
-		links: [{ to: 'https://github.com/RiadhAdrani/slick-portfolio-svelte', label: 'GitHub' }],
+			'The Insurance Workflow Management System is a web-based application designed to streamline and automate the various processes involved in insurance workflow management. The platform enhances operational efficiency, reduces manual effort, and ensures accurate tracking of tasks across different stages of insurance operations..',
+		links: [{ to: 'https://github.com/pfaleithyassine', label: 'GitHub' }],
 		logo: Assets.Svelte,
-		name: 'Slick Portfolio',
+		name: 'Insurance Workflow',
 		period: {
 			from: new Date()
 		},
-		skills: getSkills('svelte', 'ts', 'tailwind', 'sass'),
-		type: 'Website Template',
+		skills: getSkills('NestJs', 'ts', 'tailwind', 'reactjs'),
+		type: 'Client-Server Architecture',
 		screenshots: [
 			{
 				label: 'screen 1',

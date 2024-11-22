@@ -21,7 +21,7 @@
 		display: flex;
 		flex-direction: column;
 		flex: 1;
-		padding: 0px 0px;
+		padding: 5px 5px;
 	}
 
 	.body {
@@ -37,6 +37,7 @@
 
 		min-height: 100vh;
 	}
+	
 
 	:global(p) {
 		margin: 0px;

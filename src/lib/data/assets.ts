@@ -75,6 +75,13 @@ const Assets = {
 	Isamm:a('isamm_logo.png'),
 	SpringBoot:a('springboot.png'),
 	jpa:a('jpa3.jpg'),
+	Jenkins:a('jenkins-logo.png'),
+	TypeOrm:a('typeorm.png'),
+	SwapMarket:a('any-swap9118.jpg'),
+	Me:a('me.jfif'),
+	Min:a('Ministere-des-Affaires-sociales.jpg'),
+	Sgsm:a('sgsm.jpeg'),
+	Cni:a('images.jfif'),
 	
 
 };

@@ -1,6 +1,6 @@
 import { Platform } from '$lib/types';
 import { getSkills } from './skills';
-
+import Assets from './assets';
 export const title = 'Home';
 
 export const name = 'Yassine';
@@ -28,3 +28,5 @@ export const links: Array<{ platform: Platform; link: string }> = [
 ];
 
 export const skills = getSkills('js', 'css', 'html', 'reactjs', 'sass', 'svelte', 'ts');
+
+export const me = Assets.Me;

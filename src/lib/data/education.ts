@@ -21,10 +21,10 @@ export const items: Array<Education> = [
 		logo: Assets.Isamm,
 		name: '',
 		organization: 'Higher Institute of Multimedia Arts',
-		period: { from: new Date(2018, 0, 1), to: new Date(2021, 5, 1) },
+		period: { from: new Date(2018, 1, 30), to: new Date(2021, 0, 1) },
 		shortDescription: '',
 		slug: 'dummy-education-item-2',
-		subjects: ['Photoshop & illustrator', 'Unity', 'C', 'Algorithms and Data structures','HTML','CSS','PHP','Javascript','Java','Design pattern','SQL','UML']
+		subjects: ['Photoshop & illustrator', 'Unity', 'C', 'Algorithms and Data structures','HTML','CSS','PHP','Javascript','Java','Design pattern','SQL','UML','J2EE','Spring']
 	}
 ];
 
