@@ -26,7 +26,7 @@
 	class="col self-center flex-1 md:flex-row md:slef-stretch justify-center lg:justify-between items-center p-y-10px p-x-5px"
 ><div class="profile-container">
 	<!-- svelte-ignore a11y-img-redundant-alt -->
-	<img src="/logos/me.jfif" alt="Profile Picture" class="profile-img" />
+	<img src="/portfolio-yassine/logos/me.jfif" alt="Profile Picture" class="profile-img" />
 </div>
 
 	<div class="md:flex-2 gap-10px">
